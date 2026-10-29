@@ -52,9 +52,9 @@ Git e GitHub: versionamento de código e organização de projetos.
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=youngRick7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-stats-extended.vercel.app/api?username=youngRick7&theme=tokyonight&hide_border=true" height="180" alt="Estatísticas do GitHub" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngRick7&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=youngRick7&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Linguagens mais utilizadas" />
 
 </div>
 
