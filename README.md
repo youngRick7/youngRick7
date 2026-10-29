@@ -86,8 +86,12 @@ Cada projeto é uma oportunidade de aprender algo novo.
 
 <div align="center">
 
-
-
 Obrigado pela visita! 🚀
 
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ricardo-cezar-17028433b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
