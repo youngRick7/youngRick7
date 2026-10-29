@@ -95,3 +95,7 @@ Obrigado pela visita! 🚀
     <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/youngRick7/youngRick7/output/github-contribution-grid-snake-dark.svg" alt="Animação da cobrinha nas contribuições do GitHub" />
+</div>
